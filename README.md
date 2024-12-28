@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leeyuh808 studying an IT T-Level
+- 👀 I’m interested in software development/cyber security
+- 🌱 I’m currently learning Python as I am a beginner but I hope to learn numerous programming languages after
+- 📫 How to reach me leah.mbab@gmail.com
+- 😄 Pronouns: She/her
