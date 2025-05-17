@@ -1,31 +1,31 @@
-Hi, I’m Leah!
-I’m a passionate tech student driven by a belief that technology can solve meaningful problems and create opportunities for everyone, especially those from underrepresented communities.
+# Hey there — I’m Leah!
 
-I’ve led coding workshops and programming clubs at my school, participated in national hackathons like JPMorgan Generation Tech, and am currently working on personal projects focused on inclusive tech-for-good solutions.
+Aspiring **software developer** passionate about **tech for good**, **hackathons**, and turning creative ideas into reality.
 
-Currently learning: Python, data analysis, and web development. I’m fascinated by how technology intersects with healthcare, used in financial systems, education, protects digital systems and social mobility.
+Currently studying a **T Level in Digital Production, Design & Development** and hosting coding clubs at my school to inspire others to get into tech.
 
-Projects coming soon:
+---
 
-A data visualisation project exploring local digital inequality
+## Interests:
+- Pixel art games & multiplayer projects  
+- Cybersecurity and ethical hacking  
+- Inclusive tech and tech education outreach  
 
-A web app designed to support young people learning to code
+---
 
-I’m always looking to learn, build, and collaborate with others who care about using tech to make a real difference.
+## Highlights:
+- Participated in **JPMorganChase’s Generation Tech** event, debugging Python code for a robot tracing maps — a challenge that kickstarted my passion for real-world problem-solving through code.
+- Regularly run **programming workshops and coding clubs** for students, creating welcoming spaces where anyone can learn to code, regardless of experience.
+- Working on my first web app — a **learn code through a cute, multiplayer pixel-art adventure game**!
 
-CodePixle — A Web App for New Coders (Coming Soon)
-About the project:
-CodePixle is a beginner-friendly web app designed to help young people and students take their first steps in programming through interactive challenges and mini-projects.
+---
 
-Why I’m building this:
-After hosting coding clubs and seeing the confidence it gave my classmates, I wanted to build a tool that extends that experience beyond the classroom, making coding fun, accessible, and supportive for everyone.
+## Let’s Connect!
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/leahmbabaali-4abc23/))
+- leah.mbab@gmail.com  
 
-Tech stack:
+---
 
-HTML, CSS, JavaScript
+⭐️ Stay tuned for new projects soon!
 
-Possibly Python (Flask) for backend
-
-Status:
-Planning and outlining core features — repository coming soon!
 
