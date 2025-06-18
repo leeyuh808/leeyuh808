@@ -14,9 +14,9 @@ Currently studying a **T Level in Digital Production, Design & Development** and
 
 
 ## Highlights:
-- Participated in **JPMorganChase’s Generation Tech** event, debugging Python code for a robot tracing maps — a challenge that kickstarted my passion for real-world problem-solving through code.
+- Participated in **JPMorganChase’s Generation Tech** event, debugging code for a robot tracing maps using a 3pi robot and Arduino — a challenge that kickstarted my passion for real-world problem-solving through code.
 - Regularly run **programming workshops and coding clubs** for students, creating welcoming spaces where anyone can learn to code, regardless of experience.
-- Working on my first web app — a **learn code through a cute, multiplayer pixel-art adventure game**!
+- Working on my first web app — a **revision tracker and focus study app**!
 
 
 
