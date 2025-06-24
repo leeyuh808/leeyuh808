@@ -1,6 +1,6 @@
 # Hey there — I’m Leah!
 
-Aspiring **software developer** passionate about **tech for good**, **hackathons**, and turning creative ideas into reality.
+Aspiring **software developer or cyber security analyst** passionate about **tech for good**, **hackathons**, and turning creative ideas into reality.
 
 Currently studying a **T Level in Digital Production, Design & Development** and hosting coding clubs at my school to inspire others to get into tech.
 
