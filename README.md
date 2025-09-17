@@ -1,4 +1,4 @@
-# Hey there — I’m Leah!
+# Allow me to introduce myself — I’m Leah!
 Aspiring **Software Engineer** | **Data & Cybersecurity Enthusiast** | **Future Tech Consultant**
 Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact.
 
