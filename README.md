@@ -7,8 +7,11 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 
 ## Interests:
 **Software Engineering** → Designing full-stack applications that adapt to user needs
+
 **Cybersecurity & Ethical Hacking** → Exploring human and technical dimensions of digital resilience
+
 **Tech Consulting** → Leveraging data-driven insights to solve client challenges at scale
+
 **Inclusive Tech Outreach** → Running coding workshops that empower anyone to start their journey in tech
 
 
