@@ -1,5 +1,5 @@
 # Allow me to introduce myself — I’m Leah!
-Aspiring **Software Engineer** | **Data & Cybersecurity Enthusiast** | **Future Tech Consultant**
+Aspiring **Software/Data Engineer** | **Data & Cybersecurity Enthusiast** | **Future Tech Consultant**
 Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact.
 
 I’m currently studying a **T Level in Digital Production, Design & Development** while leading coding clubs at school to inspire the next generation of technologists. For me, tech is not just about code, it’s about solving problems, connecting people, and creating systems that last.
@@ -29,6 +29,6 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 
 
 
-⭐️ Stay tuned for new open-source projects & experiments coming soon!
+⭐️ Stay tuned for new projects & experiments coming soon!
 
 
