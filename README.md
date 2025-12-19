@@ -17,8 +17,11 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 
 ## Highlights:
 **JPMorgan Chase Generation Tech** → Programmed 3Pi robots using Arduino and C++, designing and debugging algorithms to efficiently map a black-line maze, optimising route selection afer exhausting all possible paths under strict time constraints.
+
 **Tech Leadership** → Lead coding clubs and workshops, creating inclusive spaces where anyone (regardless of experience) can learn programming and build confidence.
+
 **Full-Stack Projects** → In the process of building a revision tracker & focus web app (Python, JavaScript, SQL, HTML/CSS) designed around usability and motivation. Currently exploring mobile scalability.
+
 **Resilience & Collaboration** → Thriving in **time-critical challenges** and **high stake situations** from hackathons to client-focused presentations, always delivering practical solutions while learning new technologies quickly.
 
 
