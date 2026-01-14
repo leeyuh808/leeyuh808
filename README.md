@@ -1,6 +1,6 @@
 # Allow me to introduce myself — I’m Leah!
-Aspiring **Software/Data Engineer** | **Data & Cybersecurity Enthusiast** | **Future Tech Consultant**
-Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact.
+Aspiring **Software/Data Engineer** | **FinTech Enthusiast** 
+Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact espesically in the financial markets.
 
 I’m currently studying a **T Level in Digital Production, Design & Development** while leading coding clubs at school to inspire the next generation of technologists. For me, tech is not just about code, it’s about solving problems, connecting people, and creating systems that last.
 
@@ -9,8 +9,6 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 **Enterprise Data** → Working with enterprise data to address organisational challenges and deliver measurable impact
 
 **Software Engineering** → Designing full-stack applications that adapt to user needs
-
-**Cybersecurity & Ethical Hacking** → Exploring human and technical dimensions of digital resilience
 
 **Inclusive Tech Outreach** → Running coding workshops that empower anyone to start their journey in tech
 
