@@ -26,7 +26,6 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 
 ## Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/leahmbabaali-4abc23/)
-- leah.mbab@gmail.com  
 
 
 
