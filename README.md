@@ -6,11 +6,11 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 
 
 ## Interests:
+**Quant Development** → Engineering high-performance systems combining sofwtare engineering and mathematics to analyse financial data and support real-time decision-making
+
 **Enterprise Data** → Working with enterprise data to address organisational challenges and deliver measurable impact
 
 **Software Engineering** → Designing full-stack applications that adapt to user needs
-
-**Inclusive Tech Outreach** → Running coding workshops that empower anyone to start their journey in tech
 
 
 ## Highlights:
