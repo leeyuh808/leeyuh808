@@ -2,7 +2,7 @@
 Aspiring **Quant Dev/Software/Data Engineer** | **FinTech Enthusiast** 
 Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact espesically in the financial markets.
 
-I’m currently studying a **T Level in Digital Production, Design & Development** while leading coding clubs at school to inspire the next generation of technologists. For me, tech is not just about code, it’s about solving problems, connecting people, and creating systems that last.
+I’m currently studying a **T-Level in Software Development**. For me tech is about developing innovative, data-powered software that adapts to real-world needs and drives measurable results.
 
 
 ## Interests:
@@ -18,7 +18,7 @@ I’m currently studying a **T Level in Digital Production, Design & Development
 
 **Tech Leadership** → Lead coding clubs and workshops, creating inclusive spaces where anyone (regardless of experience) can learn programming and build confidence.
 
-**Full-Stack Projects** → In the process of building a revision tracker & focus web app (Python, JavaScript, SQL, HTML/CSS) designed around usability and motivation. Currently exploring mobile scalability.
+**Full-Stack Projects** → Building a Capital Gains Tax (CGT) web application that automates calculations and visualises financial data using Python, JavaScript, SQL, and HTML/CSS, with a strong focus on usability and accuracy.
 
 **Resilience & Collaboration** → Thriving in **time-critical challenges** and **high stake situations** from hackathons to client-focused presentations, always delivering practical solutions while learning new technologies quickly.
 
