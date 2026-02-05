@@ -1,5 +1,5 @@
 # Allow me to introduce myself — I’m Leah!
-Aspiring **Quant Dev/Software/Data Engineer** | **FinTech Enthusiast** 
+Aspiring **Quant Dev/Software or Data Engineer** | **FinTech Enthusiast** 
 Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact espesically in the financial markets.
 
 I’m currently studying a **T-Level in Software Development**. For me tech is about developing innovative, data-powered software that adapts to real-world needs and drives measurable results.
