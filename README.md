@@ -6,11 +6,11 @@ I’m currently studying a **T-Level in Software Development**. For me tech is a
 
 
 ## Interests:
+**Software Engineering** → Designing full-stack applications that adapt to user needs
+
 **Quant Development** → Engineering high-performance systems combining sofwtare engineering and mathematics to analyse financial data and support real-time decision-making
 
 **Enterprise Data** → Working with enterprise data to address organisational challenges and deliver measurable impact
-
-**Software Engineering** → Designing full-stack applications that adapt to user needs
 
 
 ## Highlights:
