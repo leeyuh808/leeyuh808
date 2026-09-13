@@ -1,17 +1,10 @@
 # Allow me to introduce myself — I’m Leah!
-Aspiring **Software or Data Engineer** | 
-Passionate about building **human-centred, secure, and innovative** technologies that make a **real-world** impact.
-
-I’m currently studying a **T-Level in Software Development**. For me tech is about developing innovative, data-powered software that adapts to real-world needs and drives measurable results.
-
+Passionate about building **innovative** technologies that make a **real-world** impact.
 
 ## Interests:
 **Software Engineering** → Designing full-stack applications that adapt to user needs
 
 **Quant Development** → Engineering high-performance systems combining sofwtare engineering and mathematics to analyse financial data and support real-time decision-making
-
-**Enterprise Data** → Working with enterprise data to address organisational challenges and deliver measurable impact
-
 
 ## Highlights:
 **JPMorgan Chase Generation Tech** → Programmed 3Pi robots using Arduino and C++, designing and debugging algorithms to efficiently map a black-line maze, optimising route selection afer exhausting all possible paths under strict time constraints.
