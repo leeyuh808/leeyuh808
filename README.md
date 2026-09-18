@@ -4,7 +4,7 @@ Passionate about building **innovative** technologies that make a **real-world**
 ## Interests:
 **Software Engineering** → Designing full-stack applications that adapt to user needs
 
-**Quant Development** → Engineering high-performance systems combining sofwtare engineering and mathematics to analyse financial data and support real-time decision-making
+**Quant Analytics/Development** → Engineering high-performance systems combining sofwtare engineering and mathematics to analyse financial data and support real-time decision-making
 
 ## Highlights:
 **JPMorgan Chase Generation Tech** → Programmed 3Pi robots using Arduino and C++, designing and debugging algorithms to efficiently map a black-line maze, optimising route selection afer exhausting all possible paths under strict time constraints.
