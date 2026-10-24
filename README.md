@@ -1,13 +1,13 @@
 # Allow me to introduce myself — I’m Leah!
-Passionate about building **innovative** technologies that make a **real-world** impact.
+Passionate about building **innovative** technologies that make an impact in financial markets.
 
 ## Interests:
-**Software Engineering** → Designing full-stack applications that adapt to user needs
-
-**Quant Analytics/Development** → Engineering high-performance systems combining sofwtare engineering and mathematics to analyse financial data and support real-time decision-making
+**Machine Learning for Financial Markets** — predictive modelling, time-series ML, feature engineering, and applying ML to market behaviour and trading problems.
+**Systematic & Algorithmic Trading** — quantitative strategies, backtesting, market microstructure, execution, and how models translate into real trading decisions.
+**Quantitative Research & Financial Modelling** — statistics, optimisation, simulation, risk, and using mathematical models to understand and forecast markets.
 
 ## Highlights:
-**JPMorgan Chase Generation Tech** → Programmed 3Pi robots using Arduino and C++, designing and debugging algorithms to efficiently map a black-line maze, optimising route selection afer exhausting all possible paths under strict time constraints.
+**JPMorgan Chase Hackathon** → Programmed 3Pi robots using Arduino and C++, designing and debugging algorithms to efficiently map a black-line maze, optimising route selection afer exhausting all possible paths under strict time constraints.
 
 **Tech Leadership** → Lead coding clubs and workshops, creating inclusive spaces where anyone (regardless of experience) can learn programming and build confidence.
 
