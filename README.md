@@ -3,7 +3,9 @@ Passionate about building **innovative** technologies that make an impact in fin
 
 ## Interests:
 **Machine Learning for Financial Markets** — predictive modelling, time-series ML, feature engineering, and applying ML to market behaviour and trading problems.
+
 **Systematic & Algorithmic Trading** — quantitative strategies, backtesting, market microstructure, execution, and how models translate into real trading decisions.
+
 **Quantitative Research & Financial Modelling** — statistics, optimisation, simulation, risk, and using mathematical models to understand and forecast markets.
 
 ## Highlights:
