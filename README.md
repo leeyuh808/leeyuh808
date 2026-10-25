@@ -1,4 +1,6 @@
 # Allow me to introduce myself — I’m Leah!
+Data Science Degree Apprentice at Bloomberg in the Equity corporate actions Division.
+
 Passionate about building **innovative** technologies that make an impact in financial markets.
 
 ## Interests:
